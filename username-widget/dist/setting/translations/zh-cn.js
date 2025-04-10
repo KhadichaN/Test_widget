@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({p1:"\u5c5e\u60271",p2:"\u5c5e\u60272"})}}}));
